@@ -25,7 +25,7 @@ function Footer() {
             </Link>
             <Link
               target="_blank"
-              href="https://github.com/AmarjeetJyotis/Personal-Portfolio-Website/fork"
+              href="https://github.com/bhoomi02-ai/Personal-Portfolio-Website/fork"
               className="flex items-center gap-2 uppercase hover:text-[#B59E7D]"
             >
               <CgGitFork />
