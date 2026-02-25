@@ -82,6 +82,11 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+import huggingface from '../app/assets/svg/skills/huggingface.svg'
+import keras from '../app/assets/svg/skills/keras.svg'
+import streamlit from '../app/assets/svg/skills/streamlit.svg'
+import openai from '../app/assets/svg/skills/openai.svg'
+import llm from '../app/assets/svg/skills/llm.svg'
 
 
 
@@ -254,6 +259,16 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'hugging face':
+      return huggingface;
+    case 'keras':
+      return keras;
+    case 'streamlit':
+      return streamlit;
+    case 'openai':
+      return openai;
+    case 'llm':
+      return llm;
     default:
       break;
   }

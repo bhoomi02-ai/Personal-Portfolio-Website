@@ -1,10 +1,7 @@
 export const contactsData = {
-    email: 'ak7462514@gmail.com',
-    phone: '+91-9798447398',
-    address: 'New Aman City, Kharar, Mohali, Punjab, 140301 India',
-    github: 'https://github.com/AmarjeetJyotis',
-    facebook: 'https://www.facebook.com/amarjeetjyotish1',
-    linkedIn: 'https://www.linkedin.com/in/amarjeet-jyotish/',
-    twitter: 'https://x.com/Amarjee95417580',
-    devUsername: "amarjeetjyotish"
+    email: 'bhoomi02@bu.edu',
+    address: 'Boston, MA',
+    github: 'https://github.com/bhoomi02-ai',
+    linkedIn: 'https://www.linkedin.com/in/bhoomika-rajshekar/',
+    resume: "https://drive.google.com/drive/folders/1I1t-ZGSqj_Z_khCGKQ-e8jysZhjk1Awu?usp=share_link",
 }
