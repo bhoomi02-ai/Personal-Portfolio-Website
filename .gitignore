@@ -38,3 +38,7 @@ next-env.d.ts
 # images
 *.HEIC
 *.heic
+
+# resume
+*.pdf
+!public/Bhoomika_nu_resume_ai.pdf
